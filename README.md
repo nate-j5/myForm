@@ -1,4 +1,4 @@
-Hey Guys! Thanks for checking out this project. 
+Hey guys! Thanks for checking out this project. 
 
 This app allows a user to submit fields to an external API and displays a success message after submission.
 
